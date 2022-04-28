@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Deepak-Arava
-- 👀 I’m interested in ...software development(Webservices,ORM)
+- 👀 I’m interested in ...software development..
 - 🌱 I’m currently learning ...Angular
-- 💞️ I’m looking to collaborate on ...REST security
 - 📫 How to reach me ...deepak.soim@gmail.com
 
 <!---
